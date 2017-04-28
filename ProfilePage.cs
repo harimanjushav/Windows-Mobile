@@ -15,7 +15,7 @@ using Microsoft.Phone.Net.NetworkInformation;
 using System.IO.IsolatedStorage;
 
 using Facebook;
-namespace QPalls
+namespace NameSpace
 {
     public partial class ProfilePage : PhoneApplicationPage
     {
